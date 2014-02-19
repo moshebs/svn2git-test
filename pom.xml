@@ -8,10 +8,10 @@
 	<version>2.19.0.0-SNAPSHOT</version>
 
 	<scm>
-		<connection>scm:svn:http://parrot/svn/main-repo/svn2git-test/trunk</connection>
-		<developerConnection>scm:svn:http://parrot/svn/main-repo/svn2git-test/trunk</developerConnection>
+		<connection>scm:svn:http://parrot/svn/main-repo/svn2git-test/branches/release/bermuda/svn2git-test-2.19</connection>
+		<developerConnection>scm:svn:http://parrot/svn/main-repo/svn2git-test/branches/release/bermuda/svn2git-test-2.19</developerConnection>
 		<!-- This is the url for source browsing: -->
-		<url>http://parrot/svn/main-repo/svn2git-test/trunk</url>
+		<url>http://parrot/svn/main-repo/svn2git-test/branches/release/bermuda/svn2git-test-2.19</url>
 	</scm>
 
 	<distributionManagement>
