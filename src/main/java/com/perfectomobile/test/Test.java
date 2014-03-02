@@ -5,7 +5,7 @@ import org.apache.commons.lang3.StringUtils;
 public class Test {
 	
 	public static void main(String[] args) {
-		String str = "hello48111";
+		String str = "hello4811221";
 		String str2 = StringUtils.center(str, 20);
 		System.out.println(str2);
 	}
